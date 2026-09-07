@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/catalogo_filmes?useTimezone=true&serverTimezone=UTC
+db.usuario=SEU_USUARIO_AQUI
+db.senha=SUA_SENHA_AQUI
